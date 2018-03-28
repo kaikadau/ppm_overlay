@@ -103,6 +103,5 @@ exit(1);
 
     fclose(out);
 
-       
-   
+    return 0;   
 }
